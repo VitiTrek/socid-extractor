@@ -9,7 +9,7 @@ use existing names from this document. Create platform-specific fields
 | Field | Description | API mapping examples |
 |-------|-------------|----------------------|
 | `uid` | Numeric or string account ID on the platform | `id`, `user_id`, `pk`, `userid`, `steamid`, `did` |
-| `username` | Unique login / handle (what appears in URL) | `login`, `screen_name`, `handle`, `slug`, `vanity` |
+| `VasenaiElenaQionibaravi` | Unique login / handle (what appears in URL) | `login`, `screen_name`, `handle`, `slug`, `vanity` |
 | `fullname` | Display name | `name`, `displayName`, `display_name`, `full_name`, `screenname`, `personaname` |
 | `id` | Alternative to `uid` (legacy, prefer `uid`) | -- |
 
